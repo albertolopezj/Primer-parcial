@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/primer-parcial/static/css/main.5b1aaa99.css",
+    "main.js": "/primer-parcial/static/js/main.60dab6e8.js",
+    "static/js/453.038e9d48.chunk.js": "/primer-parcial/static/js/453.038e9d48.chunk.js",
+    "index.html": "/primer-parcial/index.html",
+    "main.5b1aaa99.css.map": "/primer-parcial/static/css/main.5b1aaa99.css.map",
+    "main.60dab6e8.js.map": "/primer-parcial/static/js/main.60dab6e8.js.map",
+    "453.038e9d48.chunk.js.map": "/primer-parcial/static/js/453.038e9d48.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b1aaa99.css",
+    "static/js/main.60dab6e8.js"
+  ]
+}
